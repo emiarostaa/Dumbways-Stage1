@@ -1,1 +1,2 @@
-# Dumbways-Stage1
+mkdir tugas harian
+cd tugas harian
